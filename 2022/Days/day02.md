@@ -9,7 +9,7 @@ id: 1048699
 date: '2022-04-17T21:15:34Z'
 ---
 
-## Responsibilities of a DevOps Engineer
+## Responsibilities of a DevOps Engineer ✅
 
 Hopefully, you are coming into this off the back of going through the resources and posting on [Day1 of #90DaysOfDevOps](day01.md)
 
