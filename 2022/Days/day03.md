@@ -8,7 +8,7 @@ canonical_url: null
 id: 1048825
 ---
 
-## DevOps Lifecycle - Application Focused
+## DevOps Lifecycle - Application Focused ✅
 
 As we continue through these next few weeks we are 100% going to come across these titles (Continuous Development, Testing, Deployment, Monitor) over and over again, If you are heading towards the DevOps Engineer role then repeatability will be something you will get used to but constantly enhancing each time is another thing that keeps things interesting.
 
