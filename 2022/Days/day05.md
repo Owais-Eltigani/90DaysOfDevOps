@@ -8,7 +8,7 @@ canonical_url: null
 id: 1048830
 ---
 
-## Plan > Code > Build > Testing > Release > Deploy > Operate > Monitor >
+## Plan > Code > Build > Testing > Release > Deploy > Operate > Monitor > ✅
 
 Today we are going to focus on the individual steps from start to finish and the continuous cycle of an Application in a DevOps world.
 
