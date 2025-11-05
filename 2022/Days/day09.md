@@ -8,7 +8,8 @@ canonical_url: null
 id: 1099682
 ---
 
-## Let's explain the Hello World code
+## Let's explain the Hello World code ✅
+
 
 ### How Go works
 
