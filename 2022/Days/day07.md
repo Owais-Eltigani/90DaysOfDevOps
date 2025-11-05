@@ -8,7 +8,7 @@ canonical_url: null
 id: 1048856
 ---
 
-## The Big Picture: DevOps & Learning a Programming Language
+## The Big Picture: DevOps & Learning a Programming Language ✅
 
 I think it is fair to say to be successful in the long term as a DevOps engineer you've got to know at least one programming language at a foundational level. I want to take this first session of this section to explore why this is such a critical skill to have, and hopefully, by the end of this week or section, you are going to have a better understanding of the why, how and what to do to progress with your learning journey.
 
